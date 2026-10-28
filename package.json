@@ -1,7 +1,0 @@
-{
-  "name": "koowexa-static-platform",
-  "version": "3.0.0",
-  "private": true,
-  "scripts": { "test": "node --test tests/*.test.cjs" },
-  "engines": { "node": ">=18" }
-}
