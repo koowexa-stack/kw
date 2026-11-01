@@ -1,0 +1,23 @@
+<svg aria-labelledby="title desc" role="img" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <title id="title">KOOWEXA</title>
+ <desc id="desc">Emblema vectorial de KOOWEXA inspirado en la ilustración de inicio.</desc>
+ <defs>
+  <radialGradient id="bg" cx="35%" cy="25%" r="80%">
+   <stop stop-color="#29456f" offset="0"/>
+   <stop stop-color="#0b1f3a" offset=".62"/>
+   <stop stop-color="#030812" offset="1"/>
+  </radialGradient>
+  <linearGradient id="ring" y2="1">
+   <stop stop-color="#9cc1f0" offset="0"/>
+   <stop stop-color="#1656c4" offset=".5"/>
+   <stop stop-color="#082a63" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect width="512" height="512" rx="112" fill="#0b1f3a"/>
+ <circle cx="256" cy="256" r="190" fill="url(#bg)" stroke="url(#ring)" stroke-width="12"/>
+ <ellipse transform="rotate(-25 256 256)" cx="256" cy="256" rx="166" ry="64" fill="none" opacity=".9" stroke="#9cc1f0" stroke-width="6"/>
+ <text x="256" y="292" fill="#fff" font-family="Arial Black,Arial,sans-serif" font-size="124" font-weight="900" text-anchor="middle">KW</text>
+ <circle cx="127" cy="143" r="13" fill="#9cc1f0"/>
+ <circle cx="390" cy="356" r="15" fill="#1656c4"/>
+ <circle cx="386" cy="130" r="8" fill="#c8f58b"/>
+</svg>
